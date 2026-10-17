@@ -4,6 +4,10 @@
     "**/bower_components": true,
     "**/.sf": true,
     "**/.sfdx": true
+<<<<<<< HEAD
   },
   "xml.preferences.showSchemaDocumentationType": "none"
+=======
+  }
+>>>>>>> 66b173206aeed827ecac19ed25113786a2c38a47
 }

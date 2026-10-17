@@ -8,5 +8,9 @@
   "name": "omniserve360-salesforce",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
+<<<<<<< HEAD
   "sourceApiVersion": "67.0"
+=======
+  "sourceApiVersion": "64.0"
+>>>>>>> 66b173206aeed827ecac19ed25113786a2c38a47
 }
